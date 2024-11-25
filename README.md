@@ -1,7 +1,4 @@
 # Particle-Swarm-Optimisation-using-OpenMPI
-
-# Particle Swarm Optimization using OpenMPI
-
 This repository implements **Particle Swarm Optimization (PSO)** using **OpenMPI**, a powerful library for parallel programming. PSO is a population-based stochastic optimization technique inspired by the social behavior of birds and fish. By leveraging OpenMPI, this implementation demonstrates how distributed computing can significantly enhance the efficiency and scalability of PSO for solving complex optimization problems.
 
 ---
