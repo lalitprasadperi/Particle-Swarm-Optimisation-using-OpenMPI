@@ -16,8 +16,7 @@ This repository implements **Particle Swarm Optimization (PSO)** using **OpenMPI
 6. [Performance](#performance)  
 7. [Limitations](#limitations)  
 8. [References](#references)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
+
 
 ---
 
